@@ -1,6 +1,3 @@
-# .streamlit/config.toml
-python_version = "3.10"
-
 import json
 import io
 import base64
