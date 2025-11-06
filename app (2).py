@@ -1,5 +1,4 @@
 # .streamlit/config.toml
-[runner]
 python_version = "3.10"
 
 import json
