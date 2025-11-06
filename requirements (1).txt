@@ -1,0 +1,8 @@
+streamlit
+pydantic
+pandas
+qrcode
+Pillow
+python-dateutil
+pytest
+pyzbar; platform_system != "Windows"
